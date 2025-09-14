@@ -10,11 +10,13 @@ This repository contains the evidence and outputs for the MD5 hash cracking assi
 
 ## File/Folder Descriptions
 
-### Evidence Screenshots (`evidence/screenshots/`)
-- **installation.png** – Installed John the Ripper and wordlists, confirmed versions.
-- **check_rawmd5.png** – Verified target hash format (raw-md5).
-- **rockyou.png** – Confirmed wordlist presence and path.
-- **password_cracked.png** – Cracked hash output showing plaintext password.
+Johntheripper_installation.png: Installation of John the Ripper on Kali Linux.
+
+htr_passwordcracked.png: Output showing the cracked password.
+
+jtr_testing_rawmd5.png: Testing the raw MD5 hash format.
+
+rockyou_wordlist.png: Verifying the presence of the rockyou.txt wordlist.
 
 
 
