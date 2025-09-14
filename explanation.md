@@ -1,0 +1,3 @@
+Attack Strategy — MD5 Password Cracking
+
+In this lab, I generated test MD5 hashes and used John the Ripper on Kali Linux to perform an offline dictionary attack. The rockyou.txt wordlist was employed to attempt common passwords, and John’s default rules were applied to test variations (capitalization, suffixes, etc.). Cracked passwords were verified against the original hash list, and screenshots were captured to document each step from installation and hash format validation to the final cracked output. This approach demonstrates the importance of using strong, salted hashes to protect passwords from offline attacks.
